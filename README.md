@@ -1,6 +1,6 @@
 # Ageing
 Mathematical model of yeast replicative ageing
-Date: 2019-02-26
+(Date: 2019-02-26).
 In the folder "Data" the time series for the increase in cell area over time
 are found. In the file "WT_youngDaughter_data.xlsx" the data of the young daughter
 cells are stored. In the file "WT_oldMother_data.xlsx" the data of the old mother
